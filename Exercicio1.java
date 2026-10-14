@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exercicio  {
+public class Exercicio1  {
     public static void main(String[] args) {
         String entrada = JOptionPane.showInputDialog("Temperatura em Celsius: ");
         double celsius = Double.parseDouble(entrada);

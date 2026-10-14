@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Exercicio8 {
+public class Exercicio3 {
  public static void main(String[] args) {
  int numero = Integer.parseInt(
  JOptionPane.showInputDialog("Digite um número inteiro:"));
